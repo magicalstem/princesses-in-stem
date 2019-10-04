@@ -11,14 +11,14 @@ html {
 }
 
 body {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
   font-family: 'Dancing Script', cursive;
 }
 
-mb-1 {
-  font-family: 'Dancing Script', cursive;
-}
-
-mb-5 {
+h3 {
   font-family: 'Chilanka', cursive;
 }
 
